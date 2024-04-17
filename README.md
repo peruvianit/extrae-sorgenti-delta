@@ -35,3 +35,7 @@ $end_date = ""
 ```
 
 Aprire la cartella destinazione e trovarai la struttura delle cartella ed il sorgente che sono stati modificate tra le due date.
+
+### Creazione lista Files in formato package name convention
+
+Stato aggiunto un script convert-PathToJavaPackage.ps1 per leggere i sorgenti e creare una lista con il formato package di java
